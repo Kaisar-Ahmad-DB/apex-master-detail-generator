@@ -1,0 +1,1 @@
+# apex-master-detail-generator
